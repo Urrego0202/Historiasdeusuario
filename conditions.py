@@ -1,3 +1,6 @@
+print("Hola mundo")
+
+
 """door = False
 
 if door:
