@@ -9,6 +9,8 @@ Edad	    Precio
 Mostrar el precio.
 Si la edad es negativa, mostrar error."""
 
+print("Bienvenido al Cine La Estrella")
+
 edad = int(input("Ingrese su edad: "))
 
 if edad < 0:
