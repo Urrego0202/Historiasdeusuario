@@ -14,8 +14,8 @@ while intentos < maxintentos:
     if passworduser == passwordCorrect:
         print("Acceso permitido")
         break
-    
     intentos += 1
+    
 else:
     print("Acceso denegado")
 
